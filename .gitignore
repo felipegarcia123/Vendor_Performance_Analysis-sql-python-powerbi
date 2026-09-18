@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+inventory.db
+vendor_sales_summary.csv
+logs/*.log
+data/*.csv
+.DS_Store
+Thumbs.db
+.vscode/
